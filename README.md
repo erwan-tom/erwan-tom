@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @erwan-tom
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I like birds
 
 <!---
 erwan-tom/erwan-tom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
